@@ -1,0 +1,6 @@
+username:brainienkwo
+password:8lpGNaDGxJxeDqhe
+
+mongodb+srv://brainienkwo:8lpGNaDGxJxeDqhe@reactbackendportfolio.cry9mzz.mongodb.net/
+
+mongodb+srv://brainienkwo:8lpGNaDGxJxeDqhe@reactbackendportfolio.cry9mzz.mongodb.net/?retryWrites=true&w=majority
