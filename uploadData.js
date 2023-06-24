@@ -49,8 +49,8 @@ db.getCollection('projects').insertMany(
     ]
 );
 
-// Insert a few documents into the PortfolioData collection.
-// db.getCollection('testimonials').insertMany(
+//Insert a few documents into the PortfolioData collection.
+//db.getCollection('testimonials').insertMany(
 //  [
 //         {
 //           avatar: 'https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2019/01/tips-for-professional-portraits.jpg',
